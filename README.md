@@ -6,7 +6,7 @@
 
 ## 🎯 Project Overview
 
-This project presents a fictional cybersecurity inspired investigation into communication behaviour, message delivery, response latency and repeated follow-up attempts.
+This project presents a fictional cybersecurity inspired investigation into communication behaviour, message delivery, response latency and repeated follow up attempts.
 
 The investigation explores a familiar scenario:
 
@@ -23,7 +23,7 @@ The objectives of this investigation are to:
 - Monitor communication attempts
 - Record message delivery status
 - Analyse response latency
-- Track follow-up attempts
+- Track follow up attempts
 - Assess communication resilience
 - Classify the apparent communication barrier
 - Document the investigation process
@@ -38,7 +38,7 @@ The objectives of this investigation are to:
 | 📬 Messages Delivered | ✅ Confirmed |
 | 👀 Messages Read | Unknown |
 | 💬 Replies Received | **0** |
-| 🔁 Follow-Up Attempts | Multiple |
+| 🔁 Follow Up Attempts | Multiple |
 | ⏱️ Response Time | Classified 🔒 |
 | 🧘 Student Patience | **Critical** ⚠️ |
 | 🛡️ Communication Firewall | **ACTIVE** |
@@ -80,7 +80,7 @@ was deployed.
 ### Status
 
 ```text
-Follow-Up:      SENT ✅
+Follow Up:      SENT ✅
 Delivery:       CONFIRMED 📬
 Response:       NOT DETECTED ❌
 ```
@@ -91,7 +91,7 @@ The communication firewall remained operational.
 
 ---
 
-## Phase 3 — Second Follow-Up
+## Phase 3 — Second Follow Up
 
 A second follow up attempt was performed.
 
@@ -159,7 +159,7 @@ The following defensive measures were implemented:
 
 ---
 
-# 📈 Response-Time Analysis
+# 📈 Response Time Analysis
 
 The observed communication pattern can be represented as follows:
 
@@ -249,7 +249,7 @@ No response was obtained.
 │  Responses Received:       0         │
 │  Firewall Status:          ACTIVE    │
 │  Bypass Attempted:         NO        │
-│  Student Patience:         CRITICAL  │
+│  Student Patience:         Severe  │
 │  Investigation Status:     OPEN      │
 │                                      │
 └──────────────────────────────────────┘
@@ -299,7 +299,7 @@ This repository forms part of my cybersecurity learning portfolio, applying cybe
 # 📚 Evidence
 
 - 📩 Initial communication attempt
-- 🔁 Follow-up attempt
+- 🔁 Follow up attempt
 - 🔁 Second followup attempt
 - ⏱️ Response-time observations
 - 🧘 Remaining student patience

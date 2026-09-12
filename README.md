@@ -273,14 +273,27 @@ The terminology used in this project is intentionally inspired by cybersecurity 
 
 ---
 
-# 👤 Author
+## 👤 Author
 
-**Skhebo** — IT Professional & Cybersecurity Practitioner
+### Kabo Sekoto
+**🔐 Junior Cybersecurity Practitioner**
 
-🔗 **LinkedIn:** [Skhebo](YOUR_LINKEDIN_URL)  
-▶️ **YouTube:** [Skhebo](YOUR_YOUTUBE_URL)
+> `Learning → Building → Testing → Securing`
 
----
+This repository forms part of my practical cybersecurity learning portfolio, documenting hands on labs, security experiments and technical progression.
+
+### 🌐 Cybersecurity Journey
+
+<p align="center">
+  <a href="https://linkedin.com/in/kabosekoto">
+    <img src="https://img.shields.io/badge/🔵_LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@IamSkottK">
+    <img src="https://img.shields.io/badge/🔴_YouTube-Cybersecurity%20Lab-FF0000?style=for-the-badge" />
+  </a>
+</p>
+
 
 # 📚 Evidence
 

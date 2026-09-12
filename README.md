@@ -280,9 +280,9 @@ The terminology used in this project is intentionally inspired by cybersecurity 
 
 > `Learning → Building → Testing → Securing`
 
-This repository forms part of my practical cybersecurity learning portfolio, documenting hands on labs, security experiments and technical progression.
+This repository forms part of my cybersecurity learning portfolio, applying cybersecurity concepts to a humorous fictional scenario involving communication, response latency and highly resilient “firewall” behaviour. 😂
 
-### 🌐 Cybersecurity Journey
+### 🌐 Cybersecurity humorous Journey
 
 <p align="center">
   <a href="https://linkedin.com/in/kabosekoto">
@@ -293,7 +293,6 @@ This repository forms part of my practical cybersecurity learning portfolio, doc
     <img src="https://img.shields.io/badge/🔴_YouTube-Cybersecurity%20Lab-FF0000?style=for-the-badge" />
   </a>
 </p>
-purposes.
 
 ---
 
